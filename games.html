@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sigma Bundler</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+      <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./games.html?filter=ALL">All Games</a></li>
+      </ul>
+  </nav>
+  <input type="text" class="search-bar" id="searchInput" placeholder="Search games..." autocomplete="off">
+  <div id="badgeFilter">
+    <span class="badge disabled" id="badgeFilterAll">All</span>
+  </div>
+</header>
+
+<div id="scrollArea" class="clusterize">
+  <div class="game-list">
+    <div id="contentArea" class="clusterize-content"></div>
+  </div>
+</div>
+
+<style>
+  body {
+    overflow: hidden;
+  }
+</style>
+
+<script src="clusterize.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+[
+    {
+        "name": "HTML",
+        "location": "/games.json",
+        "handler": "return {id: 'H' + i * 1000 + j + 1,title: game[0],url: group.path + game[1] + '/',img: group.path + game[1] + '/' + (game[2] || group.image),type:'SIGMA'}",
+        "groups": [["SIGMA","green"]]
+    }
+]
