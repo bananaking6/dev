@@ -29,5 +29,26 @@
             ""
          ]
       ]
+   },
+   {
+      "path": "/m/",
+      "image-type":"static",
+      "games": [
+         [
+            "Sans fight",
+            "a1/badtimesimulator",
+            ""
+         ],
+         [
+            "Cookie Clicker",
+            "a1/cookie-clicker/2052",
+            ""
+         ],
+         [
+            "Rooftop Snipers",
+            "a2/semag/rooftopsnipers",
+            ""
+         ]
+      ]
    }
 ]
