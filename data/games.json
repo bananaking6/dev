@@ -37,27 +37,27 @@
          [
             "Sans fight",
             "a1/badtimesimulator",
-            ""
+            "cover.png"
          ],
          [
             "Cookie Clicker",
             "a1/cookie-clicker/2052",
-            ""
+            "cover.png"
          ],
          [
             "Rooftop Snipers",
             "a2/semag/rooftopsnipers",
-            ""
+            "logo.png"
          ],
          [
             "Amazing Rope Police",
             "a2/semag/amazing-rope-police",
-            ""
+            "splash.jpeg"
          ],
          [
             "Baldi's Basics",
             "a2/semag/baldis-basics",
-            ""
+            "splash.png"
          ],
          [
             "Core ball",
@@ -67,6 +67,44 @@
          [
             "Geometry Dash",
             "a2/semag/gdlite",
+            "logo.png"
+         ],
+         [
+            "Gunspin",
+            "a1/gunspin",
+            "cover.png"
+         ],
+         [
+            "Incremancer",
+            "a1/incremancer",
+            "cover.png"
+         ],
+         [
+            "OvO",
+            "a2/semag/ovo",
+            "loading-logo.png"
+         ],
+         [
+            "Retro Bowl",
+            "a2/semag/retrobowl",
+            "retrobowl.ico"
+         ],
+         [
+            "Run 3",
+            "a2/semag/run3",
+            "icon.jpeg"
+         ],
+         [
+            "Slope",
+            "a2/semag/slope",
+            "slope4.jpeg"
+         ],
+         [
+            "Snow Rider 3D",
+            "a2/semag/snowrider3d/",
+            "snow.png"
+         ],
+         [
             ""
          ]
       ]
