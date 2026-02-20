@@ -62,7 +62,7 @@
          [
             "Core ball",
             "a6/core-ball",
-            ""
+            "pr_source.png"
          ],
          [
             "Geometry Dash",
@@ -105,7 +105,14 @@
             "snow.png"
          ],
          [
-            ""
+            "Bad Piggies",
+            "a2/semag/badpiggies",
+            "badpiggies.png"
+         ],
+         [
+            "Drive Mad",
+            "a2/semag/drivemad",
+            "icons/icon-128.png"
          ]
       ]
    }
