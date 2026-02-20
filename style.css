@@ -776,7 +776,7 @@ body {
 }
 
 .badge {
-    display: inline-block;
+    display: none;
     font-size: 0.7rem;
     padding: 4px 10px;
     margin-right: 10px;
